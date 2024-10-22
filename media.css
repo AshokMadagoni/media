@@ -1,0 +1,13 @@
+body{
+    background-color: yellow;
+}
+@media(orientation:portrait){
+body{
+    background-color: #008000;
+}
+}
+@media(orientation: landscape){
+    body{
+        background-color: red;
+    }
+    }
